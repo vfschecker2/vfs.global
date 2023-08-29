@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visa checker</title>
+    <link rel="stylesheet" href="./vfs.css">
+    <script>
+        function myfunction()
+        {
+            var un = document.forms["myform"]["uname"].value;
+            var pw = document.forms["myform"]["pass"].value;
+            if(un=="INJUV09062208229015" && pw=="20230308NJUSTU99802")
+            {
+                window.location.href="Visa checker.html";
+            }
+            else
+            {
+                alert("Invalid Tracking ID and Reference Number");
+            }
+        }
+    </script>
+</head>
+<body>
+    
+    <div class="card">
+
+        <div class="div1">
+            <img class="img" src="./2020-03-25-10_07_17-Window-1030x377 (1).png" alt="">
+             
+            
+        </div>
+    
+    
+    
+    <div class="div2">
+        <h2 class="h2">TRACK YOUR APPLICATION</h2>
+            <form name="myform" method="post">
+                <label>Reference Number</label>
+                <input type="text" name="uname" class="inputText" placeholder="Reference Number">
+                <br><br>
+                <label>Tracking ID</label>
+                <input type="password" name="pass" class="inputText" placeholder="Tracking ID">
+                <br><br>
+                <input type="button" name="log" id="logbutton" value="Submit" onclick="myfunction()">
+                <br><br>
+    
+            </form>
+        </div>
+    
+    </div>
+
+    </div>
+
+
+
+</body>
+</html>

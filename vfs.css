@@ -1,0 +1,58 @@
+body{
+    background: rgb(202, 188, 188);
+}
+
+
+.img {
+    width: 150px;
+    margin-right: 60px;
+}
+
+.img2 {
+    width: 30px;
+    margin-right: 90px;
+}
+
+.h4{
+    margin-left: 150px;
+}
+
+.h2{
+    font-size: 12px;
+    margin-right: 50px;
+}
+
+.div2{
+    width: 350px;
+    overflow: hidden;
+    
+    
+    
+    
+}
+
+
+label{
+    color:black;
+    padding-left: 5px;
+}
+
+.inputText {
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    padding-left: 8px;
+
+}
+
+#logbutton{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    padding-left: 7px;
+    color: black;
+    font-size: 16px;
+    background-color: rgb(46, 46, 129);
+    
+}

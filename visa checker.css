@@ -1,0 +1,260 @@
+.img{
+    width: 20px;
+}
+
+.div1{
+    display: inline-block;
+}
+.gover{
+    font-weight: bold;
+    margin-left: 15px;
+    font-size: 10px     ;
+}
+
+.gover1{
+    font-weight: bold;
+    margin-left: 15px;
+    font-size: 10px;
+}
+
+.p1{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.h55{
+    font-size: 10px;
+    margin-left: 200px;
+}
+
+.card{
+    font-size: 15px;
+}
+
+.img3{
+    width: 50px;
+    margin-left: 100px;
+}
+
+body{
+    background: rgb(202, 188, 188);
+}
+
+.div2{
+    display: inline-block;
+}
+
+.p2{
+    color: darkcyan;
+    font-size: 10px;
+}
+
+.p3{
+    width: 100px;
+    font-weight: bold;
+}
+
+.div3{
+    display: inline-block;
+}
+
+.p4{
+    color: darkcyan;
+    font-size: 10px;
+    
+}
+
+.p5{
+    width: 100px;
+    font-weight: bold;
+
+
+}
+
+.name{
+    display: inline-block;
+}
+
+.name2{
+    color: darkcyan;
+    font-size: 10px;
+
+}
+
+.name3{
+    width: 150px;
+    font-weight: bold;
+
+}
+
+.razz{
+    display: inline-block;
+}
+
+.razz2{
+    color: darkcyan;
+    font-size: 10px;
+
+}
+
+.razz3{
+    width: 150px;
+    font-weight: bold;
+}
+
+.pass{
+    display: inline-block;
+}
+
+.pass2{
+    color: darkcyan;
+    font-size: 10px;
+}
+
+.pass3{
+    width: 100px;
+    font-weight: bold;
+
+}
+
+.type{
+    display: inline-block;
+}
+
+.type2{
+    color: darkcyan;
+    font-size: 10px;
+    margin-left: 20px;
+}
+
+.type3{
+    width: 100px;
+    font-weight: bold;
+
+}
+
+.date{
+    display: inline-block;
+}
+
+.date2{
+    color: darkcyan;
+    font-size: 10px;
+    
+}
+
+.date3{
+    width: 100px;
+    font-weight: bold;
+
+}
+
+.birth{
+    display: inline-block;
+}
+
+.birth2{
+    color: darkcyan;
+    font-size: 10px;
+    margin-left: 20px;
+}
+
+.birth3{
+    width: 100px;
+    font-weight: bold;
+
+}
+
+.place{
+    display: inline-block;
+}
+
+.place2{
+    color: darkcyan;
+    font-size: 10px;
+}
+
+.place3{
+    width: 100px;
+    font-weight: bold;
+}
+
+.current{
+    display: inline-block;
+}
+
+.current2{
+    color: darkcyan;
+    font-size: 10px;
+    margin-left: 20px;
+}
+
+.current3{
+    width: 100px;
+    font-weight: bold;
+}
+
+.male{
+    display: inline-block;
+}
+
+.male2{
+    color: darkcyan;
+    font-size: 10px;
+
+}
+
+.male3{
+    width: 100px;
+    font-weight: bold;
+}
+
+.pup{
+    display: inline-block;
+}
+
+.pup2{
+    color: darkcyan;
+    font-size: 10px;
+    margin-left: 20px;
+}
+
+.pup3{
+    width: 100px;
+    font-weight: bold;
+    
+
+}
+
+.icon{
+    display: inline-block;
+}
+
+.icon3 {
+    background-color: rgb(107, 207, 207);
+    border-radius: 200px;
+    width: 80px;
+    text-align: center;
+    color: rgb(18, 80, 59);
+}
+
+.pp{
+    font-weight: bold;
+}
+
+.per{
+    display: inline-block;
+}
+
+.lll{
+    display: inline-block;
+}
+
+.ref{
+    display: inline-block;
+}
+
+
+.des{
+    display: inline-block;
+}
